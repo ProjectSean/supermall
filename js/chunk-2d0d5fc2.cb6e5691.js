@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0d5fc2"],{"712d":function(n,e,r){"use strict";r.r(e);var c=r("7a23");function t(n,e,r,t,a,u){return Object(c["r"])(),Object(c["e"])("h2",null,"购物车")}var a={name:"ShopCart"};a.render=t;e["default"]=a}}]);
+//# sourceMappingURL=chunk-2d0d5fc2.cb6e5691.js.map
